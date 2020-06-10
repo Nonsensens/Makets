@@ -214,6 +214,7 @@ body{
 
 @media all and (max-width: 1500px){
 	.cards{
+		display: flex;
 		grid-template-columns: auto;
 		width: 100%;
 	}
