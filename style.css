@@ -211,3 +211,10 @@ body{
 	margin-left: 216px;
 	margin-bottom: 42px;
 }
+
+@media all and (max-width: 1500px){
+	.cards{
+		grid-template-columns: auto;
+		width: 100%;
+	}
+}
