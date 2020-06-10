@@ -212,9 +212,8 @@ body{
 	margin-bottom: 42px;
 }
 
-@media screen and (max-device-width: 480px){
-	.cards{
-		display: flex;
+@media screen and (max-width: 480px){
+	.agency{
 		grid-template-columns: auto;
 		width: 100%;
 	}
