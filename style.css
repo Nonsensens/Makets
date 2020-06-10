@@ -212,7 +212,7 @@ body{
 	margin-bottom: 42px;
 }
 
-@media all and (max-width: 1500px){
+@media only screen and (max-width: 480px){
 	.cards{
 		display: flex;
 		grid-template-columns: auto;
