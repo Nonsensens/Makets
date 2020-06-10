@@ -212,7 +212,7 @@ body{
 	margin-bottom: 42px;
 }
 
-@media screen and ( max-width: 1090px){
+@media screen and ( max-width: 2400px){
 	.cards{
 		grid-template-columns: auto;
 		width: 100%;
