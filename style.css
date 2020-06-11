@@ -213,8 +213,7 @@ body{
 }
 
 @media only-screen and ( max-device-width: 2340px){
-	.cards{
-		grid-template-columns: auto;
+	body{
 		width: 100%;
 	}
 }
