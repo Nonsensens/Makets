@@ -4,11 +4,12 @@
 }
 body{
 	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+	min-width: 1170px;
 }
 
 .main{
 	background: url('img/bg.png');
-	min-width: 1170px;
+
 	
 }
 
