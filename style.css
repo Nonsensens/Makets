@@ -147,7 +147,6 @@ body{
 .cards{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
-	justify-content: center;
 	min-width: 750px;
 	
 	
@@ -158,25 +157,25 @@ body{
 	color: #fff;
 	margin-right: 10px;
 	font-size: 18px;
-	min-height: 64px;
+	
 }
 .cards p{
 	font-size: 15px;
 	margin-top: 38px;
 	color: #fff;
 	margin-bottom: 130px;
-	min-height: 64px;
+	
 }
 
 .card1{
 	margin-left: 230px;
 	margin-right: 10px;
-	min-height: 64px;
+	
 }
 .card4{
 	margin-right: 230px;
 	margin-right: 10px;
-	min-height: 64px;
+	
 }
 
 
