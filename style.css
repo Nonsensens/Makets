@@ -150,6 +150,8 @@ body{
 .cards{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
+	margin-left: 250px;
+	margin-right: 250px;
 	
 	
 	
