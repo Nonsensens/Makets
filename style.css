@@ -15,6 +15,7 @@ body{
 
 .hd{
 	display: flex;
+	min-width: 1600px;
 	
 	
 
@@ -38,6 +39,7 @@ body{
 	margin-left: 15%;
 	display: flex;
 	margin-bottom: -12px;
+	min-width: 1600px;
 	
 
 }
@@ -60,6 +62,7 @@ body{
 
 .bad{
 	justify-content: center;
+	min-width: 1600px;
 }
 
 
@@ -115,6 +118,7 @@ body{
 
 .con{
 	background:#11749e;
+	min-width: 1600px;
 	
 }
 
