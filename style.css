@@ -147,12 +147,13 @@ body{
 .cards{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
-	width: 
+	
 }
 
 .cards h3{
 	margin-top: 24px;
 	color: #fff;
+	margin-right: 10px;
 	font-size: 18px;
 }
 .cards p{
@@ -164,9 +165,11 @@ body{
 
 .card1{
 	margin-left: 230px;
+	margin-right: 10px;
 }
 .card4{
 	margin-right: 230px;
+	margin-right: 10px;
 }
 
 
