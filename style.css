@@ -150,7 +150,7 @@ body{
 .cards{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
-	grid-column-gap: 70px;
+	
 	margin-left: 250px;
 	margin-right: 250px;
 	min-width: 350px;	
@@ -170,8 +170,14 @@ body{
 	margin-top: 38px;
 	color: #fff;
 	margin-bottom: 130px;
-	width: 245px;
 	
+	
+}
+.card3{
+	width: 245px;
+}
+.card2{
+	width: 245px;
 }
 
 .card1{
