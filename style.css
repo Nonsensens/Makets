@@ -9,13 +9,15 @@ body{
 
 .main{
 	background: url('img/bg.png');
-	min-width: 1600px;
+	
+	max-width: auto;
 	
 }
 
 .hd{
 	display: flex;
 	min-width: 1600px;
+	max-width: auto;
 	
 	
 
@@ -39,7 +41,8 @@ body{
 	margin-left: 15%;
 	display: flex;
 	margin-bottom: -12px;
-	min-width: 1600px;
+	min-width: auto;
+	max-width: auto;
 	
 
 }
@@ -63,6 +66,7 @@ body{
 .bad{
 	justify-content: center;
 	min-width: 1600px;
+	max-width: auto;
 }
 
 
@@ -119,6 +123,7 @@ body{
 .con{
 	background:#11749e;
 	min-width: 1600px;
+	max-width: auto;
 	
 }
 
