@@ -212,7 +212,7 @@ body{
 	margin-bottom: 42px;
 }
 
-@media only-screen and ( max-device-width: 2340px){
+@media only-screen and ( max-device-width: 1080px){
 	body{
 		width: 50%;
 	}
