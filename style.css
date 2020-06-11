@@ -147,9 +147,8 @@ body{
 .cards{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
-	height: 500px;
-	grid-column-gap: 110px;
-	width: 750px;
+	justify-content: center;
+	
 	
 }
 
